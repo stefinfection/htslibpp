@@ -1,8 +1,8 @@
 #include <memory>
 #include <string>
 #include <functional>
-#include <htslib/htslib/hts.h>
-#include <htslib/htslib/vcf.h>
+#include "../htslib/htslib/hts.h"
+#include "../htslib/htslib/vcf.h"
 
 #ifndef YICPPLIB_HTSLIBPP_HTSLIBPP
 #define YICPPLIB_HTSLIBPP_HTSLIBPP
