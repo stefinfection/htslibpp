@@ -4,7 +4,7 @@
 // in htslib
 
 #include "htslibpp.h"
-#include "../htslib/htslib/sam.h"
+#include "../../htslib/htslib/sam.h"
 #include <string.h>
 #include <utility>
 #ifndef YICPPLIB_HTSLIBPP_ALIGNMENT
